@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"8labuniswap-sdk@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/8labuniswap-sdk/-/8labuniswap-sdk-1.0.0.tgz#22d2750af133393ca0b85c6d4c8a8f5ab7563cfb"
-  integrity sha512-idnE03gKbGZVjy9umxhdt7LazvtE68/bJln56XS2LYWf6oB7qYdmIbo7UBJ2vcx8DIrK4P/q3x/EcVGeWjqevg==
+"8labuniswap-sdk@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmmirror.com/8labuniswap-sdk/-/8labuniswap-sdk-1.0.1.tgz#0916f3e566c6cb342e15500847bfad3302a0f5af"
+  integrity sha512-AcbGgrqrP9nDsWLWAzn7/sR8GEnPZnO/dfR3VcdUZFEEJPvjl8GBe9oQx/x/Dn0LNQDPLy7BumDzSM5cXmcRIA==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
